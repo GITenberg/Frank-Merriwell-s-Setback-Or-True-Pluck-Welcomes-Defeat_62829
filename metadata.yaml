@@ -1,0 +1,38 @@
+_repo: Frank-Merriwell-s-Setback-Or-True-Pluck-Welcomes-Defeat_62829
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Wilder, William West
+    - Patten, William Gilbert
+    - Patten, William G. (William Gilbert)
+    - Patten, Gilbert
+    - Wilder, William W. (William West)
+    - Patten, George William
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: https://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2020-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Merriwell, Dick (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Merriwell, Frank (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Sports stories'
+- !lcsh 'Hockey -- Juvenile fiction'
+- !lcsh 'Love stories'
+- !lcc 'PZ'
+- !lcsh 'Yale University -- Juvenile fiction'
+- GITenberg
+title: Frank Merriwell's Setback; Or, True Pluck Welcomes Defeat
+url: http://www.gutenberg.org/ebooks/62829
